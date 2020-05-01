@@ -57,8 +57,9 @@ module.exports = {
   contracts_build_directory: path.join(__dirname, "client/contracts"),
 
   plugins: [
-    'truffle-plugin-verify'
-  ],
+    'truffle-plugin-blockscout-verify',
+    //  'truffle-security' 
+    ],
   
   networks: {
     // Useful for testing. The `development` name is special - truffle uses it by default

@@ -19,6 +19,7 @@
     "@react-navigation/web": "^1.0.0-alpha.9",
     "@tradle/react-native-http": "^2.0.1",
     "chai": "^4.2.0",
+    "client": "0.0.1",
     "crypto-browserify": "^3.12.0",
     "expo": "~36.0.0",
     "expo-asset": "~8.0.0",
